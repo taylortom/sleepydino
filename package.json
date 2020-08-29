@@ -1,0 +1,15 @@
+{
+  "name": "sleepydino",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylortom/sleepydino.git"
+  },
+  "author": "Tom Taylor <hello@tomtaylor.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylortom/sleepydino/issues"
+  },
+  "homepage": "https://github.com/taylortom/sleepydino#readme"
+}
