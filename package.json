@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/taylortom/sleepydino/issues"
   },
-  "homepage": "https://github.com/taylortom/sleepydino#readme"
+  "homepage": "https://github.com/taylortom/sleepydino#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
